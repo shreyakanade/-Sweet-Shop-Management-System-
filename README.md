@@ -93,11 +93,14 @@ sweetshop-project/
 
 
 ⚙️ Local Setup Instructions
+
 🔹 1. Clone the Repository
-git clone https://github.com/yourusername/sweetshop-project.git
+
+git clone https://github.com/shreyakanade/-Sweet-Shop-Management-System-
 cd sweetshop-project
 
 🧠 Backend Setup (Django)
+
 🔹 Create Virtual Environment
 cd backend
 python -m venv venv
