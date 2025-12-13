@@ -239,12 +239,6 @@ Improving UI/UX wording and clarity
 
 All generated code was reviewed, tested, and customized by me to meet project requirements.
 
-🚀 Deployment Links (Optional)
-
-Backend (Railway): https://your-backend.up.railway.app
-
-Frontend (Vercel): https://your-frontend.vercel.app
-
 📬 Contact
 
 Developer: Shreya Kanade
