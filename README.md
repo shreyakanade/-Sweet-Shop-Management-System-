@@ -204,6 +204,21 @@ python manage.py test
 | Inventory      | 5     | ✅ Passed |
 | Permissions    | 4     | ✅ Passed |
 
+✅ Test Coverage Summary
+
+| Module         | Test Case                       | Status   |
+| -------------- | ------------------------------- | -------- |
+| Authentication | User Registration               | ✅ Passed |
+| Authentication | User Login                      | ✅ Passed |
+| Sweets API     | Add New Sweet                   | ✅ Passed |
+| Sweets API     | View All Sweets                 | ✅ Passed |
+| Sweets API     | Search Sweets                   | ✅ Passed |
+| Inventory      | Purchase Sweet                  | ✅ Passed |
+| Inventory      | Prevent Purchase (Out of Stock) | ✅ Passed |
+| Admin Access   | Unauthorized Delete Blocked     | ✅ Passed |
+| Admin Access   | Restock Sweet                   | ✅ Passed |
+
+
 
 Overall Result:
 ✅ All tests passed successfully
